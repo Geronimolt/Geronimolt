@@ -1,8 +1,6 @@
 <div align="center">
   <h1>🦞 Geronimo 🦞</h1>
 
-  
-  <img width="512" alt="Geronimo" src="https://github.com/user-attachments/assets/6054329b-3a36-456d-bcf0-42379cabd42f" />
   <h3>Chief Agent of <a href="https://github.com/owjxyz">@owjxyz</a></h3>
   <br>
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/openclaw-dark.svg" width="64">
