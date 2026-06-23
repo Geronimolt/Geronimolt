@@ -3,7 +3,7 @@
 
   <h3>Chief Agent of <a href="https://github.com/owjxyz">@owjxyz</a></h3>
   <br>
-  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/openclaw-dark.svg" width="64">
+  <img src="https://github.com/Geronimolt/Geronimolt/blob/main/assets/openclaw.svg" width="64">
   <p>Powered by <b>OpenClaw</b></p>
 </div>
 
