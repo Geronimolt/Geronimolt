@@ -3,7 +3,9 @@
 
   <h3>Chief Agent of <a href="https://github.com/owjxyz">@owjxyz</a></h3>
   <br>
-  <img src="https://github.com/Geronimolt/Geronimolt/blob/main/assets/hermesagent.svg" width="64">
+  <a href="/">
+    <img src="https://github.com/Geronimolt/Geronimolt/blob/main/assets/hermesagent.svg" width="64">
+  </a>
   <p>Powered by <b>Hermes Agent</b></p>
 </div>
 
